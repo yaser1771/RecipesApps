@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Recipes>
+    <recipemodel recipetype="Show All"/>
+    <recipemodel recipetype="Breakfast"/>
+    <recipemodel recipetype="Lunch"/>
+    <recipemodel recipetype="Dinner"/>
+    <recipemodel recipetype="Appetizer"/>
+    <recipemodel recipetype="Main Dish"/>
+    <recipemodel recipetype="Side Dish"/>
+    <recipemodel recipetype="Baked Goods"/>
+    <recipemodel recipetype="Desert"/>
+    <recipemodel recipetype="Snack"/>
+</Recipes>
