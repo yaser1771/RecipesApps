@@ -26,10 +26,10 @@ final class DashboardViewModel: ObservableObject, Completeable, Navigable {
         getData()
         getRecipeType()
         
-        let imagePath = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("directory")
-            .appendingPathComponent("recipeimage.png")
-        
+//        let imagePath = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)[0]
+//            .appendingPathComponent("directory")
+//            .appendingPathComponent("recipeimage.png")
+//        
         //images = UIImage(contentsOfFile: imagePath.path)!
     }
     

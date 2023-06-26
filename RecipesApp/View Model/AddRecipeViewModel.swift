@@ -43,7 +43,7 @@ final class AddRecipeViewModel: ObservableObject, Completeable, Navigable {
     
     func addRecipe(newRecipe: Recipe){
         getData()
-        let recipeasd = recipeList
+        //let recipeasd = recipeList
         recipeList.append(newRecipe)
     }
     
